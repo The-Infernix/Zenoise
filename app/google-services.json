@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966023957639",
+    "project_id": "zenoise-801e2",
+    "storage_bucket": "zenoise-801e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966023957639:android:1c0ffed452f8cd18f9fc22",
+        "android_client_info": {
+          "package_name": "com.example.noisemap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhzzIXZ8qsvr9kM7Z9vDbU3BynLP917s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
